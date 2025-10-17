@@ -1,7 +1,8 @@
 numpy 
 matplotlib
 pandas
-Pillow==9.2.0 
-tensorflow==2.15.*
+Pillow>=9.2.0 
+tensorflow==2.16.1
 ipykernel
 flask
+scikit-learn
