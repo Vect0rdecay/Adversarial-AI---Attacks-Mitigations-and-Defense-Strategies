@@ -2,11 +2,11 @@ Flask
 requests
 Pillow
 numpy
-tensorflow==2.15.*
+tensorflow==2.16.*
 python-dotenv
 cryptography
 flask_oauthlib==0.9.5
 matplotlib
-scikit-learn==1.1.2
+scikit-learn==1.3.2
 pandas
 art
